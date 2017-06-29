@@ -39,4 +39,4 @@ module wheel(height, d1, d2 = 0, holeDiameter) {
 wheel(5, 21, 20, 8.5, $fn=1000);
 
 translate([0,0,4])
-    wheel(height=3.5, d1=10.3, holeDiameter=4.5, $fn=100);
+    wheel(height=3.5, d1=8.5, holeDiameter=4.5, $fn=100);
